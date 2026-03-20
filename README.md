@@ -92,6 +92,15 @@ Currently focused on agribusiness technology and digital products that generate 
 </p>
 
 ---
+
+## 🚀 Currently Building
+
+🌾 **CampoLead** *(in development)*  
+SaaS for agribusiness sales management, focused on offline-first architecture and field productivity.
+
+🏢 **Elevate** *(private systems)*  
+Developing scalable and secure applications for real-world business needs.
+
 ---
 
 🤝 Always open to collaborations and new ideas
