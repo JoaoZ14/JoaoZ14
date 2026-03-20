@@ -93,7 +93,7 @@ Currently focused on agribusiness technology and digital products that generate 
 
 ---
 
-## 🚀 Currently Building
+##  Currently Building
 
 🌾 **CampoLead** *(in development)*  
 SaaS for agribusiness sales management, focused on offline-first architecture and field productivity.
