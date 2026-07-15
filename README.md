@@ -75,8 +75,8 @@ Currently focused on digital products with real-world impact.
 ## GitHub stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoaoZ14&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoZ14&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats-git-masterratnesh-tiwaris-projects.vercel.app/api?username=JoaoZ14&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats-git-masterratnesh-tiwaris-projects.vercel.app/api/top-langs/?username=JoaoZ14&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
